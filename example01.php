@@ -13,7 +13,7 @@
             $month = 12*19000000;
             echo "This is my salary".$month."dollar";
         }
-        calSarary();
+        calSalary();
         ?>
 </body>
 </html>
