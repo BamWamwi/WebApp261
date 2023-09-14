@@ -7,13 +7,15 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        function calSalary()
-        {
-            $month = 12*19000000;
-            echo "This is my salary".$month."dollar";
-        }
-        calSalary();
-        ?>
+<?php
+#this is my first function
+function calSalary()
+    {
+    $mont = 12*1900000;
+    echo "this is my salary".$mont."bath";
+    }
+# calling Function
+calSalary();
+?>
 </body>
 </html>
